@@ -4,7 +4,7 @@ The Stock Movement Analysis Based on Social Media Sentiment project aims to buil
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Problem Statement](#Problem Statement)
+- [Problem Statement](#Problem-Statement)
 - [Motivation](#motivation)
 - [Key Insights](#key-insights)
 - [Tech Stack](#tech-stack)
