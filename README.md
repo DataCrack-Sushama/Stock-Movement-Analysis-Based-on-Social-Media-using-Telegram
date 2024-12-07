@@ -17,7 +17,7 @@ The Stock Movement Analysis Based on Social Media Sentiment project aims to buil
 
 
 
-##Project Overview
+## Project Overview
 This project focuses on analyzing stock market sentiment derived from social media platforms. It utilizes data scraping techniques to gather relevant stock-related content and applies Natural Language Processing (NLP) methods like sentiment analysis to predict stock trends. The machine learning model is then trained to predict future stock movements based on the processed data.
 
 ## Problem Statement
